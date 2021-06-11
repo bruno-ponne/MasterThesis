@@ -15,7 +15,7 @@ In this script, the code to compute the sample statistics is presented.
 Here I present the main descriptive statistics. Plots were developed with ggplot. Density, dot, line and spatial plots explore the characteristics of the sample before and after the intervention.
 Bellow, one example of graph shows the performance of students across states and time in Brazil.
 
-<img src="plots/Figure6.png" width="455" height="520" />
+<img src="plots/Figure6.png" width="550" height="auto" />
 
 ### Script 03 - Fixed-effects Models
 
@@ -30,11 +30,11 @@ The authors of the package *Synth* provide a function to plot graphs in base R. 
 
 Bellow is one example of graph plotted with this function and ggplot. It shows the trends in education performance for Ceará and its Synthetic version:
 
-<img src="plots/Figure8.png" width="480" height="430" />
+<img src="plots/Figure8.png" width="550" height="auto" />
 
 Here is another example that shows the permutation test employed to examine my findings regarding inference:
 
-<img src="plots/Figure15.png" width="480" height="430" />
+<img src="plots/Figure15.png" width="550" height="auto" />
 
 ### Script 05 - Results
 
